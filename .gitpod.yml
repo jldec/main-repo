@@ -1,5 +1,6 @@
 additionalRepositories:
   - url: https://github.com/jldec/sub-repo
+    checkoutLocation: ./main-repo/sub-repo
 
 tasks:
   - command: |
