@@ -1,0 +1,6 @@
+additionalRepositories:
+  - url: https://github.com/jldec/sub-repo
+
+tasks:
+  - command: |
+      ls ..
